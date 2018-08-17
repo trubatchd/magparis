@@ -1,0 +1,8 @@
+&magparameters
+
+mu1mag = 1.256637d-6
+mu2mag = 3.0d-6
+init_phi_type = 'linear'
+init_phi_param = 5.0d-6
+
+&end 

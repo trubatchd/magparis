@@ -1,0 +1,25 @@
+Advection communications    2.1 %
+Miscellaneous              10.1 %
+Viscous terms               6.6 %
+VOF advection               5.3 %
+Heights                    17.0 %
+Heights communications      1.6 %
+Curvature                   3.9 %
+Surface tension             0.4 %
+Advection                  34.4 %
+Poisson for pressure       16.8 %
+Output to file              0.0 %
+Lag particles advection     0.0 %
+Front Tracking              1.6 %
+Tag, convert, drop stats    0.0 %
+Free Surface bubbles        0.0 %
+FT color func. Pois solve   0.0 %
+    
+Overall speed Z/np          1.36894E+06
+    
+Allocated/proc              8.38861E-02Gbytes
+    
+Current and initial time steps:      8       0
+    
+Current and initial time: 0.15344449E+10  0.15344449E+10
+Elapsed CPU time, s: 0.15319581E+01

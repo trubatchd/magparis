@@ -1,0 +1,21 @@
+         0 mixed w/less than 4 mixed neighbors (quasi-isolated mixed, unfittable by sphere)     
+         0 mixed w/less than 6 mixed neighbors (quasi-isolated mixed, unfittable by paraboloid) 
+         0 pure cells w/more than 2 other color pure neighbors (grid-aligned interfaces)        
+         0 non-bulk pure cells w 0 valid neighbors                                              
+         0                       1                                                              
+         0                       2                                                              
+         0                       3                                                              
+         0                       4                                                              
+         0                       5 valid neighbors (unfittable by paraboloid)                   
+         0 no fit success with 0 points                                                         
+         0                     1                                                                
+         0                     2                                                                
+         0                     3                                                                
+         0                     4                                                                
+         0                     5 points                                                         
+         0                     6 or more points                                                 
+         0 large kappa                                                                          
+         0 no surface tension force in x direction                                              
+         0 no surface tension force in y direction                                              
+         0 no surface tension force in z direction                                              
+         0 mxyz vector is TINY in get_curvature (indicates debris cell)                         

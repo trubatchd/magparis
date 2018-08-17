@@ -1,0 +1,44 @@
+ -------------------------
+ array index integer check
+ -------------------------
+ log2(box size)           6
+ nbytes max in box array index           2
+ Using Arithmetic Mean for Viscosity
+ Using Arithmetic Mean for Density
+x-: periodic / periodic         x+: periodic / periodic
+y-: periodic / periodic         y+: periodic / periodic
+z-: wall / wet                  z+: wall / wet
+ ReadSolidParameters: no 'inputsolids' file.
+ solids will not be activated.
+ initialized
+ vofi not available, falling back on refined levelset2vof
+ dx**2*rho/(dt*mu)       =    9765.6250000000000      dt=   1.0000000000000001E-005
+ dx**3*rho/(dt**2*sigma) =    4238.5525173611113      dt=   1.0000000000000001E-005
+ dx**2*rho/(MaxDt*mu)       =    3906.2500000000000      MaxDt=   2.5000000000000001E-005
+ dx**3*rho/(MaxDt**2*sigma) =    678.16840277777794      MaxDt=   2.5000000000000001E-005
+START:     0 dt=     1.00000E-05 time=     0.00000E+00 cpu(s):      3.959 cfl=     0.00000E+00
+Step:      1 dt=     1.00000E-05 time=     1.00000E-05 cpu(s):      3.959 cfl=     0.00000E+00
+  pressure residuals*dt L1: 0.4E-06         L2: 0.8E-05       Linf: 0.4E-03
+  pressure iterations     :       1 tolerance : 0.1E-04 norm order:   2
+Step:      2 dt=     1.00000E-05 time=     2.00000E-05 cpu(s):      4.153 cfl=     8.45937E-05
+  pressure residuals*dt L1: 0.5E-06         L2: 0.9E-05       Linf: 0.6E-03
+  pressure iterations     :       1 tolerance : 0.1E-04 norm order:   2
+Step:      3 dt=     1.00000E-05 time=     3.00000E-05 cpu(s):      4.342 cfl=     1.08474E-04
+  pressure residuals*dt L1: 0.5E-06         L2: 0.9E-05       Linf: 0.1E-02
+  pressure iterations     :       1 tolerance : 0.1E-04 norm order:   2
+Step:      4 dt=     1.00000E-05 time=     4.00000E-05 cpu(s):      4.532 cfl=     1.53088E-04
+  pressure residuals*dt L1: 0.5E-06         L2: 0.7E-05       Linf: 0.5E-03
+  pressure iterations     :       1 tolerance : 0.1E-04 norm order:   2
+Step:      5 dt=     1.00000E-05 time=     5.00000E-05 cpu(s):      4.726 cfl=     7.36626E-05
+  pressure residuals*dt L1: 0.5E-06         L2: 0.6E-05       Linf: 0.3E-03
+  pressure iterations     :       1 tolerance : 0.1E-04 norm order:   2
+Step:      6 dt=     1.00000E-05 time=     6.00000E-05 cpu(s):      4.916 cfl=     5.70764E-05
+  pressure residuals*dt L1: 0.5E-06         L2: 0.5E-05       Linf: 0.1E-03
+  pressure iterations     :       1 tolerance : 0.1E-04 norm order:   2
+Step:      7 dt=     1.00000E-05 time=     7.00000E-05 cpu(s):      5.112 cfl=     4.23767E-05
+  pressure residuals*dt L1: 0.6E-06         L2: 0.4E-05       Linf: 0.1E-03
+  pressure iterations     :       1 tolerance : 0.1E-04 norm order:   2
+Step:      8 dt=     1.00000E-05 time=     8.00000E-05 cpu(s):      5.301 cfl=     3.10671E-05
+  pressure residuals*dt L1: 0.6E-06         L2: 0.4E-05       Linf: 0.9E-04
+  pressure iterations     :       1 tolerance : 0.1E-04 norm order:   2
+Paris exits succesfully
